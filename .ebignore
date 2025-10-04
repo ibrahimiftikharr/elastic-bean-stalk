@@ -1,0 +1,13 @@
+# Git
+.git
+
+# Node modules (let EB install fresh ones)
+node_modules
+*/node_modules
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
